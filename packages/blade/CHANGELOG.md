@@ -1,5 +1,11 @@
 # @razorpay/blade
 
+## 12.107.1
+
+### Patch Changes
+
+- 7e8ffc9b: fix(rn): fix Avatar story label wrapping on React Native
+
 ## 12.107.0
 
 ### Minor Changes

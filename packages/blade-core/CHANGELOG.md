@@ -1,5 +1,20 @@
 # @razorpay/blade-core
 
+## 0.7.0
+
+### Minor Changes
+
+- ea2d1d90: feat(Badge): add checkout-scoped shape variants (intense=rectangle, subtle=pill)
+
+### Patch Changes
+
+- 884dfd7a: feat(blade-svelte): add `density` prop to AvatarGroup and use typed Text/Heading for the +N overflow counter
+- 1fce4dca: fix(blade-svelte): add definite loader and avatar group to Button
+
+  Adds a definite (left-to-right progress) loader and avatar group support to the
+  Svelte `Button`, reworks the indefinite loader to a pure-CSS 3-dot animation, and
+  removes the unused spinner styling/exports from `blade-core`.
+
 ## 0.6.0
 
 ### Minor Changes
